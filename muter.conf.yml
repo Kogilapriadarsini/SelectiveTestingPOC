@@ -1,0 +1,10 @@
+arguments:
+- test
+- -scheme
+- WFCore
+- -destination
+- platform=iOS Simulator,name=iPhone SE (3rd generation),OS=18.0
+executable: /usr/bin/xcodebuild
+exclude: []
+excludeCalls: []
+coverageThreshold: 0e+0
