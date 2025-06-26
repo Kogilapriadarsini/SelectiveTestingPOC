@@ -13,13 +13,15 @@ XCTESTPLAN_FILE="WFCore.xctestplan"
 CORE_DIR="Sources/WFCore/"
 COMMON_DIR="Sources/WFCommon/"
 
-# Get list of changed files
-git fetch myOrigin selectiveTesting > /dev/null 2>&1
-if [ $# -eq 2 ]; then
-    CHANGED_FILES=$(git diff --name-only "$1" "$2")
-else
-    CHANGED_FILES=$(git diff --name-only myOrigin/selectiveTesting)
-fi
+# Determine base and head branch for PR diff
+default_base="main"
+BASE_BRANCH="${BASE_BRANCH:-${GITHUB_BASE_REF:-$default_base}}"
+HEAD_BRANCH="${HEAD_BRANCH:-$(git rev-parse --abbrev-ref HEAD)}"
+
+echo "Comparing HEAD branch '$HEAD_BRANCH' against base branch '$BASE_BRANCH'"
+
+git fetch origin "$BASE_BRANCH" > /dev/null 2>&1
+CHANGED_FILES=$(git diff --name-only "origin/$BASE_BRANCH...$HEAD_BRANCH")
 
 CORE_CHANGED=false
 COMMON_CHANGED=false
