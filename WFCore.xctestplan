@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "168C50AD-1EB0-4655-8E1C-1FEB4B38507F",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "WFCommonTests",
+        "name" : "WFCommonTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "WFCoreTests",
+        "name" : "WFCoreTests"
+      }
+    }
+  ],
+  "version" : 1
+}

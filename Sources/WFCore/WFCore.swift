@@ -6,6 +6,7 @@ import AVFoundation
 
 struct WFCore {
     func compareStrings(_ string1: String, _ string2: String) -> Bool {
-        return string1 == string2
+        let result = (string1 == string2)
+        return result
     }
 }
