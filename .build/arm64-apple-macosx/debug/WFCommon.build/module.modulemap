@@ -1,4 +1,0 @@
-module WFCommon {
-    header "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/WFCommon.build/WFCommon-Swift.h"
-    requires objc
-}

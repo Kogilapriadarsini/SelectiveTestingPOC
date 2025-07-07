@@ -1,4 +1,0 @@
-module PathKit {
-    header "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/PathKit-tool.build/PathKit-Swift.h"
-    requires objc
-}

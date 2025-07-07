@@ -1,4 +1,0 @@
-module XcodeProj {
-    header "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/XcodeProj.build/XcodeProj-Swift.h"
-    requires objc
-}

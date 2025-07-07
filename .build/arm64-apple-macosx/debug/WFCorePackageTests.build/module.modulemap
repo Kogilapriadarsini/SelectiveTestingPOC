@@ -1,4 +1,0 @@
-module WFCorePackageTests {
-    header "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/WFCorePackageTests.build/WFCorePackageTests-Swift.h"
-    requires objc
-}

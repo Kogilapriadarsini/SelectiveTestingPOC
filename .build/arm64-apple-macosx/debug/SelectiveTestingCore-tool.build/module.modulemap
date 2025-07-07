@@ -1,4 +1,0 @@
-module SelectiveTestingCore {
-    header "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestingCore-tool.build/SelectiveTestingCore-Swift.h"
-    requires objc
-}
