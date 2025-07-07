@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/master.swiftdeps"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/DependencyCalculator/ConcurrentMap.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/ConcurrentMap.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/ConcurrentMap.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/ConcurrentMap~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/ConcurrentMap.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/ConcurrentMap.dia"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/DependencyCalculator/DependencyCalculator.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/DependencyCalculator.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/DependencyCalculator.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/DependencyCalculator~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/DependencyCalculator.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/DependencyCalculator.dia"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/DependencyCalculator/DependencyGraph.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/DependencyGraph.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/DependencyGraph.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/DependencyGraph~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/DependencyGraph.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/DependencyGraph.dia"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/DependencyCalculator/PackageMetadata.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/PackageMetadata.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/PackageMetadata.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/PackageMetadata~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/PackageMetadata.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator.build/PackageMetadata.dia"
+  }
+}

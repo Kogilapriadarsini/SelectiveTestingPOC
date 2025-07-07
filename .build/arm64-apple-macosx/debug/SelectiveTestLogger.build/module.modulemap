@@ -1,0 +1,4 @@
+module SelectiveTestLogger {
+    header "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestLogger.build/SelectiveTestLogger-Swift.h"
+    requires objc
+}

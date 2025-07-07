@@ -1,0 +1,26 @@
+{
+  "": {
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestingCore.build/master.swiftdeps"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/SelectiveTestingCore/Config.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestingCore.build/Config.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestingCore.build/Config.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestingCore.build/Config~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestingCore.build/Config.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestingCore.build/Config.dia"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/SelectiveTestingCore/DependencyGraph+Visualization.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestingCore.build/DependencyGraph+Visualization.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestingCore.build/DependencyGraph+Visualization.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestingCore.build/DependencyGraph+Visualization~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestingCore.build/DependencyGraph+Visualization.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestingCore.build/DependencyGraph+Visualization.dia"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/SelectiveTestingCore/SelectiveTestingTool.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestingCore.build/SelectiveTestingTool.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestingCore.build/SelectiveTestingTool.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestingCore.build/SelectiveTestingTool~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestingCore.build/SelectiveTestingTool.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestingCore.build/SelectiveTestingTool.dia"
+  }
+}

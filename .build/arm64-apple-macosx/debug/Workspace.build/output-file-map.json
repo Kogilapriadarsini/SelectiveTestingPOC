@@ -1,0 +1,40 @@
+{
+  "": {
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/master.swiftdeps"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/Workspace/DependencyGraph.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/DependencyGraph.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/DependencyGraph.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/DependencyGraph~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/DependencyGraph.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/DependencyGraph.dia"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/Workspace/Sequence+Extensions.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/Sequence+Extensions.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/Sequence+Extensions.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/Sequence+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/Sequence+Extensions.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/Sequence+Extensions.dia"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/Workspace/Target.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/Target.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/Target.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/Target~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/Target.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/Target.dia"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/Workspace/WorkspaceInfo.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/WorkspaceInfo.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/WorkspaceInfo.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/WorkspaceInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/WorkspaceInfo.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/WorkspaceInfo.dia"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/Workspace/XCWorkspace+Projects.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/XCWorkspace+Projects.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/XCWorkspace+Projects.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/XCWorkspace+Projects~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/XCWorkspace+Projects.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/XCWorkspace+Projects.dia"
+  }
+}

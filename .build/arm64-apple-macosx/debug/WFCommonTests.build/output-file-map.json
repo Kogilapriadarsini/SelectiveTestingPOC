@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/WFCommonTests.build/master.swiftdeps"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/Tests/WFCommonTests/WFCommonTests.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/WFCommonTests.build/WFCommonTests.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/WFCommonTests.build/WFCommonTests.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/WFCommonTests.build/WFCommonTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/WFCommonTests.build/WFCommonTests.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/WFCommonTests.build/WFCommonTests.dia"
+  }
+}

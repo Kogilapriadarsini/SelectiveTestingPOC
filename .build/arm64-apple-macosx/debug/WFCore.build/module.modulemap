@@ -1,0 +1,4 @@
+module WFCore {
+    header "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/WFCore.build/WFCore-Swift.h"
+    requires objc
+}

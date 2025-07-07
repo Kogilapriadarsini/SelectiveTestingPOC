@@ -1,0 +1,4 @@
+module AEXML {
+    header "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/AEXML-tool.build/AEXML-Swift.h"
+    requires objc
+}

@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/master.swiftdeps"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/TestConfigurator/TestConfigurator.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/TestConfigurator.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/TestConfigurator.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/TestConfigurator~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/TestConfigurator.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/TestConfigurator.dia"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/TestConfigurator/xctestplanner/Core/Entity/TestPlanModel.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/TestPlanModel.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/TestPlanModel.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/TestPlanModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/TestPlanModel.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/TestPlanModel.dia"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/TestConfigurator/xctestplanner/Core/Extensions/Array+Extensions.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/Array+Extensions.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/Array+Extensions.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/Array+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/Array+Extensions.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/Array+Extensions.dia"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/TestConfigurator/xctestplanner/Core/Helper/TestPlanHelper.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/TestPlanHelper.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/TestPlanHelper.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/TestPlanHelper~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/TestPlanHelper.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator.build/TestPlanHelper.dia"
+  }
+}

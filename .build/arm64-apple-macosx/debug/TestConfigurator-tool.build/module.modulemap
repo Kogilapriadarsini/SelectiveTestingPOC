@@ -1,0 +1,4 @@
+module TestConfigurator {
+    header "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/TestConfigurator-tool.build/TestConfigurator-Swift.h"
+    requires objc
+}

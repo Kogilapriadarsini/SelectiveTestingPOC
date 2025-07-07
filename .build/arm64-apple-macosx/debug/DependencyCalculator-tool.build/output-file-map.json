@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/master.swiftdeps"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/DependencyCalculator/ConcurrentMap.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/ConcurrentMap.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/ConcurrentMap.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/ConcurrentMap~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/ConcurrentMap.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/ConcurrentMap.dia"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/DependencyCalculator/DependencyCalculator.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/DependencyCalculator.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/DependencyCalculator.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/DependencyCalculator~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/DependencyCalculator.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/DependencyCalculator.dia"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/DependencyCalculator/DependencyGraph.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/DependencyGraph.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/DependencyGraph.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/DependencyGraph~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/DependencyGraph.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/DependencyGraph.dia"
+  },
+  "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/checkouts/XcodeSelectiveTesting/Sources/DependencyCalculator/PackageMetadata.swift": {
+    "dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/PackageMetadata.d",
+    "object": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/PackageMetadata.swift.o",
+    "swiftmodule": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/PackageMetadata~partial.swiftmodule",
+    "swift-dependencies": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/PackageMetadata.swiftdeps",
+    "diagnostics": "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/PackageMetadata.dia"
+  }
+}

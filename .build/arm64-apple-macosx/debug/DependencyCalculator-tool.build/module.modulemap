@@ -1,0 +1,4 @@
+module DependencyCalculator {
+    header "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/DependencyCalculator-tool.build/DependencyCalculator-Swift.h"
+    requires objc
+}

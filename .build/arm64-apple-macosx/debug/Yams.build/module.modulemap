@@ -1,0 +1,4 @@
+module Yams {
+    header "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Yams.build/Yams-Swift.h"
+    requires objc
+}

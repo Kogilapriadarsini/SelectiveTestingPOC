@@ -1,0 +1,4 @@
+module SelectiveTestShell {
+    header "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/SelectiveTestShell-tool.build/SelectiveTestShell-Swift.h"
+    requires objc
+}

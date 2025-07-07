@@ -1,0 +1,4 @@
+module Workspace {
+    header "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Workspace.build/Workspace-Swift.h"
+    requires objc
+}

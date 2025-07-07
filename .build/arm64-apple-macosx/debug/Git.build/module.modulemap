@@ -1,0 +1,4 @@
+module Git {
+    header "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Git.build/Git-Swift.h"
+    requires objc
+}

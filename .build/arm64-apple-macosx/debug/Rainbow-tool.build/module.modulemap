@@ -1,0 +1,4 @@
+module Rainbow {
+    header "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Rainbow-tool.build/Rainbow-Swift.h"
+    requires objc
+}

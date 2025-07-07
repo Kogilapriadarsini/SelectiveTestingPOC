@@ -1,0 +1,4 @@
+module Spectre {
+    header "/Users/kogilapriadarsininathan/Documents/Projects/WFCore/.build/arm64-apple-macosx/debug/Spectre.build/Spectre-Swift.h"
+    requires objc
+}
