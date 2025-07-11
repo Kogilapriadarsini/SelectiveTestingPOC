@@ -12,4 +12,5 @@ struct WFCore {
     func compareStrings(_ string1: String, _ string2: String) -> Bool {
         return string1 == string2
     }
+    
 }
