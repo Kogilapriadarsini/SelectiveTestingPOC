@@ -13,4 +13,7 @@ struct WFCore {
         return string1 == string2
     }
     
+    func comaparetwoStrings() -> Bool {
+        return true
+    }
 }
